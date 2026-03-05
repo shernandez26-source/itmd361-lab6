@@ -1,5 +1,5 @@
 body{
-background-image: url("../images/repeating.png");
+background-image: url("../repeating.png");
 float:left;
 }
 
@@ -14,8 +14,7 @@ border-radius:12px 12px 0px 0px;
 position:relative;
 margin-top:40px;
 border-radius:12px 12px 0px 0px;
-background-image:url("../images/black.jpg");
-}
+background-image: url("../black.jpg");
 
 #header h1{
 position:absolute;
